@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2015-12-09 16:18:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4d8a24a44f901200888e4fa18110c76b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_tuckertest_my_great_table.x_snc_tuckertest_my_great_table_user</sys_name>
