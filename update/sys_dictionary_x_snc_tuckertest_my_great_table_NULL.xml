@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2015-12-09 16:18:48</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c7ea686467101200b13375f557415a43</sys_id>
+        <sys_id>271df230c3101200ca27ff9c02d3aeba</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_tuckertest_my_great_table</sys_name>
         <sys_package display_value="TuckerTest" source="x_snc_tuckertest">3ee9a4244f901200888e4fa18110c724</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="TuckerTest">3ee9a4244f901200888e4fa18110c724</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_tuckertest_my_great_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2015-12-09 16:20:35</sys_updated_on>
+        <sys_updated_on>2015-12-10 21:37:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
